@@ -1,0 +1,16 @@
+{
+    "data":[
+        {"id":1,"questionText":"היכן הבעיה?","answers":[ "אתר","לא"],"clicked":40,"InCargeSelcted":false},
+        {"id":2,"questionText":"היכן הבעיה באתר?","answers":["שאלונים","נתון לא מעודכן באתר","נתון לא נכון באתר","לא מצליח להתחבר לאתר"],"clicked":900,"InCargeSelcted":false},
+        {"id":3,"questionText":"האם התחבר בעבר?","answers":[ "לא","כן"] ,"clicked":30,"InCargeSelcted":false},
+        {"id":4,"questionText":"שילחו קישור לסיסמא ראשונית. הצליח?","answers":[ "לא","כן"],"clicked":32,"InCargeSelcted":false},
+        {"id":5,"questionText":"האם קיים בCRM?","answers":[ "לא","כן"], "clicked":10,"InCargeSelcted":true},
+        {"id":6,"questionText":"היכנס לטרנזקציה","answers":["תחום","תת תחום","שאלה","תת שאלה","תבנית תשובה בCRM"],"clicked":45,"InCargeSelcted":true},
+        {"id":7,"questionText":"שאלונים","answers":["גיוס","מתגייסים ברשת","תקלות באתר","תקלות באתר"],"clicked":10000,"InCargeSelcted":false},
+        {"id":8,"questionText":"האם קיים בSAP?","answers":[ "לא","כן"],"clicked":30,"InCargeSelcted":true},
+        {"id":9,"questionText":"העבר פניה למדור תו''ם","answers":[ "לא","כן"],"clicked":10000,"InCargeSelcted":false} ,   
+        {"id":10,"questionText":"לעשות הסבה, להנחות להמתין לפחות 24 שעות ולהיכנס עם סיסמא ראשונית(סוג מידע 105)","answers":["גיוס","מתגייסים ברשת","לא מצליח להתחבר לאתר","לא מצליח להתחבר לאתר"],"clicked":3000,"InCargeSelcted":false},
+        {"id":11,"questionText":"לבדוק ולעשות הסבה","answers":["גיוס","מתגייסים ברשת","חוסר/פער בנתונים","חוסר/פער בנתונים"],"clicked":4000,"InCargeSelcted":false},
+        {"id":12,"questionText":"תודה רבה נגמר","answers":["גיוס","מתגייסים ברשת","לא מצליח להתחבר לאתר","לא מצליח להתחבר לאתר"],"clicked":500,"InCargeSelcted":true}
+    ]
+}
